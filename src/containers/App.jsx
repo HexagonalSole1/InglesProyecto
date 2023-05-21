@@ -1,7 +1,7 @@
 import '../css/App.css'
-import Nav from '../containers/nav'
-import Footer from '../containers/footer'
-import Content from '../containers/upnidosContent'
+import Nav from '../components/nav'
+import Footer from '../components/footer'
+import Content from '../components/upnidosContent'
 function App() {
 
   return (
