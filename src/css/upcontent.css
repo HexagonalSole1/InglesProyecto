@@ -1,0 +1,13 @@
+.ContainerNews{
+display: flex; 
+flex-wrap: wrap;   
+align-items:center;
+text-align: justify;
+justify-content:center;
+background-color: #D9D9D9;
+width: 100vw;
+height: 75vh;
+border-radius: 15%;
+padding: 1.5rem;
+margin: auto;
+}

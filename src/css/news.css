@@ -1,0 +1,15 @@
+.newsContainer{
+display: flex; 
+flex-wrap: wrap;   
+align-items:center;
+text-align: justify;
+flex-direction: column;
+justify-content:center;
+background-color: #D9D9D9;
+color: rgb(6, 6, 6);
+width: 50vw;
+height: auto;
+border-radius: 15%;
+padding: 1.5rem;
+margin: auto;
+}
