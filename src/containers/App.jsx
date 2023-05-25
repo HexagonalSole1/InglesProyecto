@@ -5,13 +5,13 @@ import Content from '../components/upnidosContent'
 function App() {
 
   return (
-    <>
-      <div>
+    
+      <div className='Contenedor'>
       <Nav/>
-      <Content/>
-      <Footer/>
+       <Content/>
+      <Footer/>  
       </div>
-    </>
+  
   )
 }
 
