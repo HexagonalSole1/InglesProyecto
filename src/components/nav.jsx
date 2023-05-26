@@ -8,13 +8,13 @@ export default function Nav() {
 
       <div className='NavLogo'>
 
-        <img src={img} alt="" />
+        <img src={img} alt=""  className='imagenLogo'/>
 
       </div>
 
       <div className='DivTitulo'>
 
-         <p className='Titulo'>
+         <p className='Titulo1'>
           Universida Politecnica News
           </p>   
       </div>

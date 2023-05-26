@@ -1,5 +1,5 @@
 import '../css/App.css'
-import Nav from '../components/nav'
+import Nav from '../components/Nav'
 import Footer from '../components/footer'
 import Content from '../components/upnidosContent'
 function App() {
